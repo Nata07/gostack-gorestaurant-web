@@ -10,7 +10,7 @@
 Essa será uma aplicação que irá se conectar a uma fake API, e exibir os pratos de comida criados e permitir a criação, remoção e atualização desses pratos.</p>
 
 <p> Link do desafio:
-  <a href=https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-reactjs-crud/README.md">
+  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-reactjs-crud/README.md">
  https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-reactjs-crud/README.md </a>
 </p>
 
